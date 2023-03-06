@@ -26,6 +26,7 @@ com\portfolio\jds\JdsApplication.class
 com\portfolio\jds\Security\Dto\JwtDto.class
 com\portfolio\jds\Security\Controller\AuthController.class
 com\portfolio\jds\Entity\Experiencia.class
+com\portfolio\jds\Interface\IPersonaService.class
 com\portfolio\jds\Security\Service\UsuarioService.class
 com\portfolio\jds\Entity\Persona.class
 com\portfolio\jds\Controller\PersonaController.class
